@@ -1,5 +1,4 @@
 import React, {useState} from "react";
-import { Form, FormGroup, Input, Button } from "reactstrap";
 
 
 function SearchBox({onSearch, placeholder}) {
